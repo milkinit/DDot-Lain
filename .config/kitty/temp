@@ -1,0 +1,32 @@
+# Accent
+# #d47189
+
+background #0f0f14
+foreground #f9cfda
+
+cursor #d47189
+
+selection_background #2a1a22
+selection_foreground #e6e6ef
+
+# ANSI colors
+# black -> 0
+color0  #12121a
+color1  #ff5c7a
+color2  #41d17a
+color3  #ffcc66
+color4  #d47189
+color5  #b07cff
+color6  #56e0d0
+color7  #e6e6ef
+
+# Bright ANSI
+color8  #2a2a36
+color9  #ff7b96
+color10 #6fffb0
+color11 #ffe08a
+color12 #7fc2ff
+color13 #c49bff
+color14 #7df2ea
+color15 #ffffff
+
