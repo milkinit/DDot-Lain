@@ -47,6 +47,7 @@ main() {
   install_fastfetch
   copy_config
   echo "| RESTARTING + RELOADING I3 |"
+  i3 --get-socketpath
   i3-msg reload && i3-msg restart || true
 }
 
