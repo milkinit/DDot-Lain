@@ -6,7 +6,7 @@ This repository contains configuration files, themes, scripts, and tools for cre
 
 ## Project Structure
 ```
-Lains-Debian-Dotfiles/
+DDot-Lain/
 ├── install.sh
 ├── LICENSE
 ├── README.md
@@ -68,5 +68,5 @@ The installation script installs the following tools:
 Clone this repository:
 
 ```bash
-git clone https://github.com/milkinit/Lains-Debian-Dotfiles.git && cd Lains-Debian-Dotfiles && ./install.sh
+git clone https://github.com/milkinit/DDot-Lain.git && cd DDot-Lain && ./install.sh
 ```
