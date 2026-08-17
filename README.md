@@ -6,7 +6,7 @@ This repository contains configuration files, themes, scripts, and tools for cre
 
 ## Project Structure
 ```
-lain-dotfiles/
+Lains-Debian-Dotfiles/
 ├── install.sh
 ├── LICENSE
 ├── README.md
