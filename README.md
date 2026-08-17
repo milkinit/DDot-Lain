@@ -32,8 +32,8 @@ lain-dotfiles/
 - Installation script for Debian-based systems
 
 ## Preview
-<img width="49%" height="798" alt="image" src="https://github.com/user-attachments/assets/d99775f5-f13a-4e0d-b915-9cb549fe6406" /> <img width="49%" height="797" alt="image" src="https://github.com/user-attachments/assets/5f0d49c0-39d0-41ff-a2fc-6a50c9856528" />
-
+<img width="49%" height="798" alt="image" src="https://github.com/user-attachments/assets/cff482d8-4bbd-4c47-96d1-e588554f5341" />
+<img width="49%" height="797" alt="image" src="https://github.com/user-attachments/assets/ae9323a1-3c45-4ceb-8a27-91553447693f" />
 
 ## Requirements
 
@@ -68,5 +68,5 @@ The installation script installs the following tools:
 Clone this repository:
 
 ```bash
-git clone https://github.com/milkinit/Lain-Dotfiles.git && cd Lain-Dotfiles && ./install.sh
+git clone https://github.com/milkinit/Lains-Debian-Dotfiles.git && cd Lains-Debian-Dotfiles && ./install.sh
 ```
