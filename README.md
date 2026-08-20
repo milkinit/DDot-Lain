@@ -32,8 +32,8 @@ DDot-Lain/
 - Installation script for Debian-based systems
 
 ## Preview
-<img width="49%" height="798" alt="image" src="https://github.com/user-attachments/assets/cff482d8-4bbd-4c47-96d1-e588554f5341" />
-<img width="49%" height="797" alt="image" src="https://github.com/user-attachments/assets/ae9323a1-3c45-4ceb-8a27-91553447693f" />
+<img width="100%" height="798" alt="image" src="https://github.com/user-attachments/assets/cff482d8-4bbd-4c47-96d1-e588554f5341" />
+<img width="100%" height="797" alt="image" src="https://github.com/user-attachments/assets/ae9323a1-3c45-4ceb-8a27-91553447693f" />
 
 ## Requirements
 
